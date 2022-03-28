@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohsen El Sayed
 - Android Developer.
-- Start coding since 2019/9/19.
+- Start coding on 2019/9/19.
 - Skilled in Java and C++, User Interface Design, XML, APIS, Firebase, Notification, and SQLite.
 - Learning Cyber Security but still beginner.
 - My accounts: 
