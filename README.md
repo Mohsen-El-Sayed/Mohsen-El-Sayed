@@ -8,7 +8,7 @@ My journey in tech has involved managing dynamic websites for **over 100,000 use
 
 ## 🚀 About Me
 
-*   🎓 I'm currently a sophomore pursuing a Bachelor's degree in **Business Information Systems** through a joint program between **Cairo University and Georgia State University** (2022 - 2026).
+*   🎓 I'm currently a junior pursuing a Bachelor's degree in **Business Information Systems** through a joint program between **Cairo University and Georgia State University** (2022 - 2026).
 *   💻 I embarked on my coding journey on **September 19, 2019**.
 *   👨‍🏫 I'm passionate about teaching and sharing my knowledge in programming, having guided over 30 young minds into the world of C++.
 *   💡 As the founder of **Shbab Btsad Shbab**, an educational initiative, I've gained invaluable experience in leadership, strategy, and platform management.
