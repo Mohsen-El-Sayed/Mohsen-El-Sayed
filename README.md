@@ -1,9 +1,5 @@
 # Hi there, I'm Mohsen El Sayed 👋
 
-<p align="center">
-  <img src="https://mohsens.space/assets/images/me.jpg" alt="Mohsen El Sayed" width="200"/>
-</p>
-
 I'm a passionate and results-oriented **Android Developer and IT Specialist** based in Giza, Egypt 🇪🇬. I specialize in bringing innovative tech solutions to life, with a particular focus on creating impactful E-learning experiences.
 
 My journey in tech has involved managing dynamic websites for **over 100,000 users** and developing engaging Android applications. I thrive on combining my technical expertise with a deep understanding of user needs to push the boundaries of what's possible in technology.
